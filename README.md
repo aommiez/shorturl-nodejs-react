@@ -10,8 +10,3 @@ Install the dependencies and devDependencies and start the server.
 $ meteor npm install --save
 $ meteor
 ```
-
-#### Demo
-
-See [Demo](https://mrgshorturl.herokuapp.com)
-
